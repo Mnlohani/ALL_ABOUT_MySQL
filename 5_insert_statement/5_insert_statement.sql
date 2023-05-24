@@ -1,9 +1,18 @@
 # Insert 
 
-# note: The below sql commands will give constraints error, but they are correct. 
+# note: The below sql commands could give constraints error, but they are correct. 
 # Select ten records from the “titles” table to get a better idea about its content.
 # Then, in the same table, insert information about employee number 999903. State that he/she is a “Senior Engineer”, who has started working in this position on October 1st, 1997.
 #At the end, sort the records from the “titles” table in descending order to check if you have successfully inserted the new record.
+
+insert into employees
+Values(
+999901,
+'1986-04-21',
+'John',
+'Smith',
+'M',
+'2011-01-01');
 
 SELECT 
     *
