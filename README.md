@@ -1,1 +1,1 @@
-# ALL_ABOUT_MySQL
+# Concepts related with MySQL
