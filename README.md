@@ -1,1 +1,2 @@
-# These are some of concepts related with MySQL covered with Udemy course "MYSQL for data Analytics and Business Intelligence"
+# MySQL concepts
+The Repo includes some of the concepts covered in Udemy course "MYSQL for data Analytics and Business Intelligence"
